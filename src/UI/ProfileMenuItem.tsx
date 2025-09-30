@@ -33,7 +33,7 @@ const ProfileMenuItem: React.FC<ProfileMenuItemProps> = ({
 					src={imageSrc}
 					width={20}
 					height={20}
-					alt={label}
+					alt=''
 					className='block max-w-5 max-h-5'
 				/>
 				{label}
