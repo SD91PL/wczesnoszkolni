@@ -25,3 +25,8 @@ The **TopBar** component supports:
 ⚠️ Note: when switching views in DevTools (e.g., mobile ↔ desktop), the page needs to be **refreshed** so the correct navigation controls for the given device are loaded.
 
 ---
+## Deployment
+
+The project is deployed on [Vercel](https://vercel.com/).
+
+Live preview: [sd91pl-wczesnoszkolni.vercel.app](https://sd91pl-wczesnoszkolni.vercel.app)
