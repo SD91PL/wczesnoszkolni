@@ -3,7 +3,7 @@ import TileCardButton from './TileCardButton'
 
 export default function TileSection() {
 	return (
-		<div className='container'>
+		<div className='container overflow-x-hidden'>
 			<div className='flex flex-col justify-center items-center lg:flex-row lg:justify-around xl:justify-between flex-wrap'>
 				<TileCard>
 					<TileCardButton

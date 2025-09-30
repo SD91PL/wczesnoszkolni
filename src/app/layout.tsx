@@ -29,7 +29,8 @@ export default function RootLayout({
 	return (
 		<StoreProvider>
 			<html lang='en'>
-				<body className={`${rubik.variable} ${nunito.variable} antialiased flex flex-col gap-7.5`}>
+				<body
+					className={`${rubik.variable} ${nunito.variable} antialiased flex flex-col gap-7.5 overflow-x-hidden`}>
 					<TopBar />
 					<main className='mx-1 lg:mx-1.5 xl:mx-2'>{children}</main>
 				</body>
