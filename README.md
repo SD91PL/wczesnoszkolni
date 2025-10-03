@@ -1,6 +1,6 @@
 # Frontend recruitment task - pesi.pl
 
-Recreated a website project based on a Figma design as part of a recruitment task for **pesi.pl**.
+Recreated a website project based on a [Figma design](https://www.figma.com/design/dRoAW0wC7mY84DGQg0ZbAE/zadanie_testowe_wczesnoszkolni) as part of a recruitment task for **pesi.pl**.
 
 ## Tech stack
 
